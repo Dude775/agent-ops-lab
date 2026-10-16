@@ -1,0 +1,6 @@
+*.log
+*dump*
+describe-real*
+backups*/
+node_modules/
+.env
