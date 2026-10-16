@@ -7,7 +7,7 @@ Operating and securing AI coding agents on a Windows/WSL workstation.
 | Section | Status | Description |
 |---------|--------|-------------|
 | [case-studies/](case-studies/) | Available | Real incident write-ups and debugging notes |
-| cc-guard | Coming soon | |
+| [cc-guard/](cc-guard/) | Available | PreToolUse hook that blocks egress, destructive and secret-access commands from Claude Code on Windows |
 | [mcp-index/](mcp-index/) | Available | Read-only, root-locked MCP server that exposes a project tree as a searchable index for Claude Code |
 
 ### Case studies
